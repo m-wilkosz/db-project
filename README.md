@@ -1,5 +1,5 @@
 # Database Project
-[![](https://skills.thijs.gg/icons?i=mysql)](https://skills.thijs.gg)
+[![](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Description
 Transact-SQL database made for database course. Contains history of football matches and some stored procedures and functions.
